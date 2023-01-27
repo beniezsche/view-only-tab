@@ -10,7 +10,8 @@
         "history",
         "tabs",
         "activeTab",
-        "scripting"
+        "scripting",
+        "storage"
     ],
     "host_permissions": [
         "http://*/*",
